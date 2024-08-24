@@ -23,7 +23,11 @@ html {
   box-sizing: border-box;
   font-size: 62.5%;
 }
+.F{
+  color: #01bbff;
+  font-family:cursive ;
 
+}
 body {
   font-family: 'Roboto', sans-serif;
   font-size: 1.6rem;
