@@ -765,7 +765,9 @@ span{
   border-radius: 1rem;
   padding: 1rem 2rem;
 }
-
+.btn-1:hover, .contact form a:hover{
+  background-color: #01bbff;
+}
 .contact form div {
   position: relative;
   width: 80%;
