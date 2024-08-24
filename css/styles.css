@@ -248,8 +248,11 @@ Hero Area
   padding: 1rem 3rem;
   font-size: 1.6rem;
   margin-top: 1rem;
-  background-color:yellowgreen;
+  background-color:rgb(146, 207, 24);
   color: white;
+}
+.hero .left .hero-btn:hover{
+  background-color: rgb(159, 233, 11);
 }
 
 .hero .right {
@@ -622,14 +625,14 @@ Hero Media Query
   position: absolute;
   bottom: 0;
   right: 10%;
-  width: 75rem;
+  width: 55rem;
 }
 
 .banner .trend,
 .banner p {
   display: block;
   font-size: 2rem;
-  font-weight: 300;
+  font-weight: 800;
   margin-bottom: 1.5rem;
 }
 
@@ -638,10 +641,18 @@ Hero Media Query
   color: var(--black);
   margin-bottom: 1.5rem;
 }
+span{
+  color: green;
+  font-weight: 800;
+}
 
 .banner .btn {
   display: inline-block;
   margin-top: 2rem;
+}
+.banner .btn:hover {
+ 
+  background-color: #01bbff;
 }
 
 @media only screen and (max-width: 1500px) {
