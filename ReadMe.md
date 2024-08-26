@@ -1,9 +1,9 @@
-![ecommerce webiste](./images/webpage.png)
-![ecommerce webiste](./images/offer.png)
-![ecommerce webiste](./images/catagory.png)
+# Features of This Ecommerce Website
 
-### Features of this Ecommerce Website
+![Ecommerce Website](./images/webpage.png)
+![Ecommerce Offer](./images/offer.png)
+![Ecommerce Category](./images/catagory.png)
 
-# Demo link
+## Demo Link
 
-https://simple-ecommerce-sage.vercel.app/index.html
+[Visit the Demo](https://simple-ecommerce-sage.vercel.app/index.html)
