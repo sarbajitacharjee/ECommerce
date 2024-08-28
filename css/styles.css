@@ -1005,7 +1005,7 @@ footer .row {
 }
 
 .hide-popup {
-  transform: scale(0.2);
+  transform: scale(2.2);
   opacity: 0;
   visibility: hidden;
 }
